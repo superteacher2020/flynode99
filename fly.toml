@@ -1,0 +1,4 @@
+# fly.toml file generated for cold-waterfall-525 on 2023-04-12T02:15:29+08:00
+
+app = "cold-waterfall-525"
+primary_region = "sin"
